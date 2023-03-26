@@ -3,7 +3,9 @@
   padding: 0;
 }
 
-
+button:hover{
+  cursor: pointer;
+}
 p {
   font-family: 'Inter';
   font-style: normal;
